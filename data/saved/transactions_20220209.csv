@@ -1,0 +1,287 @@
+,buchungsdatum,wertstellung,umsatzart,buchungsdetails,auftraggeber,empfaenger,betrag_eur,saldo,scategory,mcategory
+0,2022-01-24,2022-01-24,Gutschrift,"Referenz YYW1018077879172 PAYPAL. IKEA Deutschland GmbH & Co. KG, Ihr Einkauf bei IKEA Deutschland GmbH & Co. KG ABBUCHUNG VOM PAYPAL-KONTO","PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Max Mustermann,75.09,10244.89,onetimer_revenue,onetimer_revenue
+1,2022-01-21,2022-01-21,Lastschrift,"_8023393572 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-0.69,10169.8,movies_dl,dailylife
+2,2022-01-19,2022-01-19,Ãberweisung,_,Max Mustermann,"LANDESHAUPTKASSE BERLIN, 10179 BLN.",-108.5,10170.49,onetimer_expenditure,onetimer_expenditure
+3,2022-01-19,2022-01-19,Lastschrift,"_8002456534 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-0.99,10278.99,movies_dl,dailylife
+4,2022-01-19,2022-01-19,Lastschrift,"Referenz 411100124073M_-ID DE11ZZZ00000144980Kunde _, siehe Zahlungsavis (E-Mail)",Max Mustermann,SHARE NOW GmbH,-20.14,10279.98,share_mobility_dl,dailylife
+5,2022-01-19,2022-01-19,Lastschrift,Referenz NOTPROVIDEDM_ U451980729 B530900801 SIMply Rechnung,Max Mustermann,Drillisch Online GmbH,-14.66,10300.12,smartphone_dl,dailylife
+6,2022-01-18,2022-01-18,Lastschrift,"_7940591630 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.15,10314.78,food_delivery_dl,dailylife
+7,2022-01-18,2022-01-18,Lastschrift,"_7988679073 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10315.93,movies_dl,dailylife
+8,2022-01-18,2022-01-18,Lastschrift,"_7988729530 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10319.92,movies_dl,dailylife
+9,2022-01-18,2022-01-18,Lastschrift,"_7988686362 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10323.91,movies_dl,dailylife
+10,2022-01-18,2022-01-18,Lastschrift,"_7988698130 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10327.9,movies_dl,dailylife
+11,2022-01-18,2022-01-18,Lastschrift,"_7968770427 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-6.99,10331.89,movies_dl,dailylife
+12,2022-01-18,2022-01-18,Lastschrift,"_7968696860 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-5.99,10338.88,movies_dl,dailylife
+13,2022-01-18,2022-01-18,Lastschrift,"_7961976235 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-31.57,10344.87,food_delivery_dl,dailylife
+14,2022-01-18,2022-01-18,Lastschrift,"_7940580612 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-22.97,10376.44,food_delivery_dl,dailylife
+15,2022-01-17,2022-01-17,Lastschrift,"_7921745764 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-36.39,10399.41,food_delivery_dl,dailylife
+16,2022-01-17,2022-01-17,Lastschrift,"_7921750712 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.82,10435.8,food_delivery_dl,dailylife
+17,2022-01-17,2022-01-17,Lastschrift,Referenz RECHNR. _M_-ID _/2022 K-NR. _ Ihre Rechnung online bei www.vodafone.de/meinkabel,Max Mustermann,Vodafone Deutschland GmbH,-29.99,10437.62,rent_lease,rent_lease
+18,2022-01-17,2022-01-17,Lastschrift,Rundfunkbeitrag,Max Mustermann,"Rundfunk ARD, ZDF, DRadio",-55.08,10467.61,rent,rent
+19,2022-01-14,2022-01-14,Lastschrift,"Referenz 6CLGK58KY2BPPHG0MkE.7(Q2,_+_.4Einreicher-ID DE94ZZZ00000561653306-6275748-0489105 AMZN Mktp DE 6CLGK58KY2BPPHG0",Max Mustermann,AMAZON PAYMENTS EUROPE S.C.A.,-23.93,10522.69,other_dl,dailylife
+20,2022-01-14,2022-01-14,Dauerauftrag,RF66X395487520,Max Mustermann,"RUNDFUNK ARD, ZDF, DRADIO",-105.0,10546.62,rent,rent
+21,2022-01-12,2022-01-12,Lastschrift,"_7881087500 PAYPALLU96ZZZ.PP . MILES Mobility GmbH, Ihr Einkauf bei MILES Mobility GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-19.5,10651.62,share_mobility_dl,dailylife
+22,2022-01-11,2022-01-11,Lastschrift,"_7821684282 PAYPALLU96ZZZ.PP . IKEA Deutschland GmbH& Co. KG, Ihr Einkauf bei IKEA Deutschland GmbH & Co. KG",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-97.43,10671.12,other_dl,dailylife
+23,2022-01-11,2022-01-11,Lastschrift,"_7831161996 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-4.99,10768.55,movies_dl,dailylife
+24,2022-01-11,2022-01-11,Lastschrift,"_7831371250 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-6.99,10773.54,movies_dl,dailylife
+25,2022-01-11,2022-01-11,Lastschrift,"_7825187106 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-36.03,10780.53,food_delivery_dl,dailylife
+26,2022-01-11,2022-01-11,Lastschrift,"_7831826469 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-8.99,10816.56,movies_dl,dailylife
+27,2022-01-11,2022-01-11,Lastschrift,"_7867905383 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10825.55,movies_dl,dailylife
+28,2022-01-10,2022-01-10,Gutschrift,Referenz NOT PROVIDEDMIETE JANUAR 2022,MARIA GONZALEZ UnMi1,Max Mustermann,385.0,10829.54,revenue_lease,revenue_lease
+29,2022-01-10,2022-01-10,Lastschrift,"_7813082627 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.29,10444.54,movies_dl,dailylife
+30,2022-01-10,2022-01-10,Lastschrift,"_7813066278 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.29,10445.83,movies_dl,dailylife
+31,2022-01-10,2022-01-10,Lastschrift,"Referenz 5R73CVD5EPYZ6T2CMkE.7(Q2,_+_.4Einreicher-ID DE94ZZZ00000561653306-0946215-9088315 AMZN Mktp DE 5R73CVD5EPYZ6T2C",Max Mustermann,AMAZON PAYMENTS EUROPE S.C.A.,-11.95,10447.12,other_dl,dailylife
+32,2022-01-10,2022-01-10,Lastschrift,"_7813256075 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-8.99,10459.07,movies_dl,dailylife
+33,2022-01-10,2022-01-10,Lastschrift,"_7813375977 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-7.99,10468.06,movies_dl,dailylife
+34,2022-01-10,2022-01-10,Lastschrift,"_7812873041 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-6.99,10476.05,movies_dl,dailylife
+35,2022-01-10,2022-01-10,Lastschrift,"_7812894381 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.29,10483.04,movies_dl,dailylife
+36,2022-01-10,2022-01-10,Lastschrift,"_7812846928 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-5.99,10484.33,movies_dl,dailylife
+37,2022-01-10,2022-01-10,Ãberweisung,no-one,Max Mustermann,Max Mustermann,-5000.0,10490.32,outside_capital,outside_capital
+38,2022-01-10,2022-01-08,Einzahlung,CRM 56000182 KRT0003/12.2208.01 16.56 TA-NR. 00328670173 Stuttgart Bolzstr. 3-7Postbank Card (Debitkarte),,Max Mustermann,5000.0,15490.32,onetimer_expenditure,onetimer_expenditure
+39,2022-01-07,2022-01-07,Dauerauftrag,MONATSBUDGET FÃR ALLTÃGLICHES,Max Mustermann,Max Mustermann,-400.0,10490.32,uncategorized,uncategorized
+40,2022-01-06,2022-01-06,Gutschrift,Referenz 14WNV0FO13WLOSMW304-3388775-3033910 AMZ PEARL Versandhaus 14WNV0FO13WLOSMW,AMAZON PAYMENTS EUROPE S.C.A.,Max Mustermann,43.99,10890.32,onetimer_revenue,onetimer_revenue
+41,2022-01-06,2022-01-06,Gutschrift,Referenz 6T7XYPYZDMJ8SLNN304-3388775-3033910 AMZ PEARL Versandhaus 6T7XYPYZDMJ8SLNN,AMAZON PAYMENTS EUROPE S.C.A.,Max Mustermann,1.99,10846.33,onetimer_revenue,onetimer_revenue
+42,2022-01-06,2022-01-06,Gutschrift,Referenz 337QZB1W9MM2FAHB304-5357371-6977923 AMZ Assurant Europe Insurance N.V. 337QZB1W9MM2FAHB,AMAZON PAYMENTS EUROPE S.C.A.,Max Mustermann,5.09,10844.34,onetimer_revenue,onetimer_revenue
+43,2022-01-06,2022-01-06,Lastschrift,"Referenz 410900054927M_-ID DE11ZZZ00000144980Kunde _, siehe Zahlungsavis (E-Mail)",Max Mustermann,DEBLZ-SHARE NOW GMBH,-4.68,10839.25,share_mobility_dl,dailylife
+44,2022-01-06,2022-01-06,Lastschrift,Referenz ZAA0102526038M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,Max Mustermann,LOGPAY FINANCIAL SERVICES GMBH,-2.55,10843.93,mobility,mobility
+45,2022-01-06,2022-01-06,Lastschrift,"_7780353700 Paypal-ID _. REWE Markt GmbH, Ihr Einkauf beiREWE Markt GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-91.74,10846.48,grocery,grocery
+46,2022-01-05,2022-01-05,Dauergutschrift,Referenz NOTPROVIDEDVerwendungszweckKommando zurueck,Max Mustermann,Max Mustermann,250.0,10938.22,onetimer_revenue,onetimer_revenue
+47,2022-01-05,2022-01-05,Lastschrift,Referenz Kd.nr. _ 2000/_/001Einreicher-ID _ vom 05.01.2022,Max Mustermann,NEULAND Wohnungsgesellschaft mbH,-496.41,10688.22,rent_lease,rent_lease
+48,2022-01-05,2022-01-05,Lastschrift,"_7744012413 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-13.98,11184.63,movies_dl,dailylife
+49,2022-01-04,2022-01-04,Gutschrift,Referenz NOTPROVIDEDMiete Januar Erica UnMi2,ERICA UnMi2,Max Mustermann,410.0,11198.61,revenue_lease,revenue_lease
+50,2022-01-04,2022-01-04,Kartenzahlung,Adana Grillhaus,Max Mustermann,Adana Grillhaus,-140.0,10788.61,restaurant_dl,dailylife
+51,2022-01-04,2022-01-04,Lastschrift,"_7735014896 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.25,10928.61,food_delivery_dl,dailylife
+52,2022-01-04,2022-01-04,Lastschrift,"_7734999496 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-25.0,10929.86,food_delivery_dl,dailylife
+53,2022-01-04,2022-01-04,Lastschrift,"_7728831452 PAYPALLU96ZZZ.PP . LogPay Financial Services GmbH, Ihr Einkauf bei LogPay Financial Services GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.0,10954.86,uncategorized,uncategorized
+54,2022-01-04,2022-01-04,Lastschrift,"_7728834974 PAYPALLU96ZZZ.PP . LogPay Financial Services GmbH, Ihr Einkauf bei LogPay Financial Services GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.0,10957.86,uncategorized,uncategorized
+55,2022-01-04,2022-01-04,Lastschrift,"_7710599526 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10960.86,movies_dl,dailylife
+56,2022-01-04,2022-01-04,Lastschrift,"_7728782796 PAYPALLU96ZZZ.PP . MILES Mobility GmbH, Ihr Einkauf bei MILES Mobility GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.65,10964.85,share_mobility_dl,dailylife
+57,2022-01-04,2022-01-04,Lastschrift,"_7710570833 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10968.5,movies_dl,dailylife
+58,2022-01-04,2022-01-04,Lastschrift,"_7710490252 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10972.49,movies_dl,dailylife
+59,2022-01-03,2022-01-04,Ãberweisung,"Rechnungsnummer: _, Kursname: Data Science Bootcamp, Batchnummer: DATA003, Campus Phase: 24.01.22- 11.02.22",Max Mustermann,WBS CODING SCHOOL,-800.0,10976.48,onetimer_expenditure,onetimer_expenditure
+60,2022-01-03,2022-01-04,Ãberweisung,Kaution,Max Mustermann,Trang X,-265.98,11776.48,onetimer_expenditure,onetimer_expenditure
+61,2022-01-03,2022-01-03,Lastschrift,Referenz NOTPROVIDEDM01-20180607-164912-650678Einreicher-ID DE-ANYONE _ 007003 A2DVEZ,Max Mustermann,Max Mustermann,-40.0,12042.46,pension_parents,budgeted
+62,2022-01-03,2022-01-03,Lastschrift,Referenz NOTPROVIDEDM01-20180607-164912-650678Einreicher-ID DEXXX-Max Mustermann _ 007001 593393,Max Mustermann,Max Mustermann,-250.0,12082.46,savings_plan,cash
+63,2022-01-03,2022-01-03,Kartenzahlung,Referenz VZ2112310358653012M045906Einreicher-ID DE37SCC00000040819SUMUP .PLIETS.H. - STEFA//BERLIN/DE2021-12-30T14:44:49Folgenr. 003 Verfalld. 2212,Max Mustermann,V PAY,-125.0,12332.46,other_dl,dailylife
+64,2022-01-03,2022-01-03,Lastschrift,-,Max Mustermann,LSW Energie GmbH & Co. KG,-183.0,12457.46,rent_lease,rent_lease
+65,2022-01-03,2022-01-03,Lastschrift,"_7669527106 PAYPALLU96ZZZ.PP . MILES Mobility GmbH, Ihr Einkauf bei MILES Mobility GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-35.0,12640.46,share_mobility_dl,dailylife
+66,2022-01-03,2022-01-03,Lastschrift,"_7657940573 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,12675.46,movies_dl,dailylife
+67,2022-01-03,2022-01-03,Lastschrift,"_7657994705 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,12679.45,movies_dl,dailylife
+68,2022-01-03,2022-01-03,Lastschrift,"_7663298376 PAYPALLU96ZZZ.PP . MILES Mobility GmbH, Ihr Einkauf bei MILES Mobility GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-18.7,12683.44,share_mobility_dl,dailylife
+69,2022-01-03,2022-01-03,Lastschrift,BAUSPARVERTRAG,Max Mustermann,ALTE LEIPZIGER BAUSPAR AG,-250.0,12702.14,building_savings,cash
+70,2022-01-03,2022-01-03,Lastschrift,"_7657980176 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,12952.14,movies_dl,dailylife
+71,2022-01-03,2022-01-03,Dauerauftrag,RUECKLAGEN,Max Mustermann,Max Mustermann,-50.0,12956.13,reserve,cash
+72,2022-01-03,2022-01-03,Dauerauftrag,"MIETE FUER:HASENSTR. 1,7XXXX STUTTGART",Max Mustermann,W+I HAMMER,-860.0,13006.13,rent,rent
+73,2022-01-03,2022-01-03,Dauerauftrag,URLAUB,Max Mustermann,Max Mustermann,-250.0,13866.13,holiday,budgeted
+74,2022-01-03,2022-01-03,Dauerauftrag,RENTE FÃR ELTERN,Max Mustermann,Max Mustermann,-10.0,14116.13,uncategorized,uncategorized
+75,2021-12-30,2021-12-30,Dauergutschrift,Referenz NOTPROVIDEDVerwendungszweckMiete,Doris UnMi3,Max Mustermann,360.0,14126.13,revenue_lease,revenue_lease
+76,2021-12-30,2021-12-30,Lastschrift,"Referenz 410700072346M_-ID DE11ZZZ00000144980Kunde _, siehe Zahlungsavis (E-Mail)",Max Mustermann,DEBLZ-SHARE NOW GMBH,-11.55,13766.13,share_mobility_dl,dailylife
+77,2021-12-30,2021-12-30,Dauerauftrag,ETF-SPARPLAN,Max Mustermann,Max Mustermann,-250.0,13777.68,savings_plan,cash
+78,2021-12-30,2021-12-30,Dauerauftrag,DARLEHENSKONTONUMMER,Max Mustermann,BUNDESKASSE HALLE,-130.0,14027.68,debts,budgeted
+79,2021-12-29,2021-12-29,Gutschrift,Bundesagentur fÃ¼r Arbeit-Service-Haus,Bundesagentur fÃ¼r Arbeit-Service-Haus,Max Mustermann,727.6,14157.68,onetimer_revenue,onetimer_revenue
+80,2021-12-29,2021-12-29,Lastschrift,Referenz ZAA0102022265M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,Max Mustermann,LOGPAY FINANCIAL SERVICES GMBH,-5.1,13430.08,mobility,mobility
+81,2021-12-28,2021-12-28,Gehalt/Rente,ENTGELTUEBERWEISUNG 12.2021,mypegasus-Transfer-GmbH,Max Mustermann,3134.22,13435.18,revenue,revenue
+82,2021-12-28,2021-12-28,Kartenzahlung,086 HELLWEG SAGT DANKE,Max Mustermann,086 HELLWEG SAGT DANKE,-94.97,10300.96,other_dl,dailylife
+83,2021-12-28,2021-12-28,Lastschrift,"_7592122560 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-0.99,10395.93,movies_dl,dailylife
+84,2021-12-28,2021-12-28,Lastschrift,"_7595583983 PAYPALLU96ZZZ.PP . UMI Urban Mobility International GmbH, Ihr Einkauf bei UMI Urban Mobility International GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-8.83,10396.92,share_mobility_dl,dailylife
+85,2021-12-27,2021-12-27,Dauergutschrift,Referenz _VerwendungszweckMiete,Meine Partnerin,Max Mustermann,483.44,10405.75,revenue,revenue
+86,2021-12-27,2021-12-27,Lastschrift,Deutsche Post AG,Max Mustermann,Deutsche Post AG,-2.4,9922.31,onetimer_expenditure,onetimer_expenditure
+87,2021-12-27,2021-12-27,Lastschrift,"_7566753153 PAYPALLU96ZZZ.PP . Voi Technology GermanyGmbH, Ihr Einkauf bei Voi Technology Germany GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.06,9924.71,share_mobility_dl,dailylife
+88,2021-12-27,2021-12-27,Lastschrift,"Referenz 410600118428M_-ID DE11ZZZ00000144980Kunde _, siehe Zahlungsavis (E-Mail)",Max Mustermann,DEBLZ-SHARE NOW GMBH,-19.2,9925.77,share_mobility_dl,dailylife
+89,2021-12-27,2021-12-27,Lastschrift,Referenz Beleg: 311008698828M_ 290600204/Mustermann/ENERGIELIEFERUNG,Max Mustermann,Suewag Vertrieb AG CO.KG,-65.0,9944.97,rent,rent
+90,2021-12-27,2021-12-27,Lastschrift,Referenz Beleg: 311008698827M_ _/Mustermann/ENERGIELIEFERUNG,Max Mustermann,Suewag Vertrieb AG CO.KG,-50.0,10009.97,rent,rent
+91,2021-12-27,2021-12-27,Lastschrift,"_7561882105 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10059.97,movies_dl,dailylife
+92,2021-12-27,2021-12-27,Lastschrift,"_7561793484 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-5.99,10063.96,movies_dl,dailylife
+93,2021-12-27,2021-12-27,Lastschrift,"Referenz 411300048256M_-ID DE11ZZZ00000144980Kunde _, siehe Zahlungsavis (E-Mail)",Max Mustermann,DEBLZ-SHARE NOW GMBH,-3.63,10069.95,share_mobility_dl,dailylife
+94,2021-12-23,2021-12-23,Lastschrift,DRK GENERALSEKRETARIAT,Max Mustermann,DRK GENERALSEKRETARIAT,-20.0,10073.58,donation,budgeted
+95,2021-12-22,2021-12-22,Lastschrift,Referenz ZAA0101748073M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,Max Mustermann,LOGPAY FINANCIAL SERVICES GMBH,-3.02,10093.58,mobility,mobility
+96,2021-12-22,2021-12-22,Lastschrift,Referenz ZAA0101685020M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,Max Mustermann,LOGPAY FINANCIAL SERVICES GMBH,-2.55,10096.6,mobility,mobility
+97,2021-12-21,2021-12-21,Kartenzahlung,DEUTSCHE POST AG,Max Mustermann,DEUTSCHE POST AG,-7.49,10099.15,onetimer_expenditure,onetimer_expenditure
+98,2021-12-21,2021-12-21,Lastschrift,"_7477267550 Paypal-ID _. Nintendo, Ihr Einkauf bei Nintendo",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-24.99,10106.64,games_dl,dailylife
+99,2021-12-21,2021-12-21,Lastschrift,"_7468413428 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-0.99,10131.63,movies_dl,dailylife
+100,2021-12-21,2021-12-21,Lastschrift,Referenz ZAA0101622422M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,Max Mustermann,LOGPAY FINANCIAL SERVICES GMBH,-5.1,10132.62,mobility,mobility
+101,2021-12-21,2021-12-21,Lastschrift,"_7452428100 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-7.99,10137.72,movies_dl,dailylife
+102,2021-12-21,2021-12-21,Lastschrift,"_7452296363 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10145.71,movies_dl,dailylife
+103,2021-12-20,2021-12-20,Lastschrift,"_7445029635 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10149.7,movies_dl,dailylife
+104,2021-12-20,2021-12-20,Lastschrift,"_7445468121 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-9.98,10153.69,movies_dl,dailylife
+105,2021-12-20,2021-12-20,Lastschrift,"_7445010398 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10163.67,movies_dl,dailylife
+106,2021-12-20,2021-12-20,Lastschrift,"_7444953416 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10167.66,movies_dl,dailylife
+107,2021-12-20,2021-12-20,Lastschrift,"_7445018027 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10171.65,movies_dl,dailylife
+108,2021-12-17,2021-12-17,Lastschrift,Referenz NOTPROVIDEDM_ U446305286 B523987889 SIMply Rechnung,Max Mustermann,Drillisch Online GmbH,-12.49,10175.64,smartphone_dl,dailylife
+109,2021-12-16,2021-12-16,Lastschrift,Referenz RECHNR. 100856456754M_-ID DE20KD00000005829412/2021 K-NR. _ Ihre Rechnung online bei www.vodafone.de/meinkabel,Max Mustermann,Vodafone Deutschland GmbH,-29.99,10188.13,rent_lease,rent_lease
+110,2021-12-15,2021-12-15,Gutschrift,Referenz NOTPROVIDEDMiete Dezember Erica UnMi2,ERICA UnMi2,Max Mustermann,410.0,10218.12,revenue_lease,revenue_lease
+111,2021-12-15,2021-12-15,Lastschrift,"_7369940149 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-89.99,9808.12,movies_dl,dailylife
+112,2021-12-15,2021-12-15,Lastschrift,"_7380290822 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-12.99,9898.11,movies_dl,dailylife
+113,2021-12-14,2021-12-14,Lastschrift,"_7369786947 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,9911.1,movies_dl,dailylife
+114,2021-12-14,2021-12-14,Lastschrift,"_7369807478 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,9915.09,movies_dl,dailylife
+115,2021-12-14,2021-12-14,Lastschrift,"_7369884163 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,9919.08,movies_dl,dailylife
+116,2021-12-14,2021-12-14,Lastschrift,"_7369770566 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,9923.07,movies_dl,dailylife
+117,2021-12-14,2021-12-14,Lastschrift,"_7320691063 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.7,9927.06,food_delivery_dl,dailylife
+118,2021-12-14,2021-12-14,Lastschrift,"_7322208705 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-18.04,9928.76,food_delivery_dl,dailylife
+119,2021-12-14,2021-12-14,Lastschrift,"_7369811277 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,9946.8,movies_dl,dailylife
+120,2021-12-14,2021-12-14,Lastschrift,"_7320682255 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-34.0,9950.79,food_delivery_dl,dailylife
+121,2021-12-14,2021-12-14,Lastschrift,"Referenz 1XBYQX42B43DLM4PMkE.7(Q2,_+_.4Einreicher-ID DE24ZZZ00000561652304-2003815-1560365 Amazon.de 1XBYQX42B43DLM4P",Max Mustermann,"AMAZON EU S.A R.L., NIEDERLASSUNG DEUTSCHLAND",-47.9,9984.79,other_dl,dailylife
+122,2021-12-13,2021-12-13,Lastschrift,"Referenz 3IVRZO9VEEU3J58RMkE.7(Q2,_+_.4Einreicher-ID DE24ZZZ00000561652304-5468802-7088347 Amazon.de 3IVRZO9VEEU3J58R",Max Mustermann,"AMAZON EU S.A R.L., NIEDERLASSUNG DEUTSCHLAND",-9.25,10032.69,other_dl,dailylife
+123,2021-12-13,2021-12-13,Lastschrift,"_7311885923 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-4.99,10041.94,music_dl,dailylife
+124,2021-12-10,2021-12-10,Lastschrift,"Referenz 36TA8V6QHCJE7W1VMkE.7(Q2,_+_.4Einreicher-ID _-3388775-3033910 AMZN Mktp DE 36TA8V6QHCJE7W1V",Max Mustermann,AMAZON PAYMENTS EUROPE S.C.A.,-45.98,10046.93,other_dl,dailylife
+125,2021-12-10,2021-12-10,Lastschrift,"_7281316671 PAYPALLU96ZZZ.PP . DB Vertrieb GmbH, IhrEinkauf bei DB Vertrieb GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-65.8,10092.91,mobility,mobility
+126,2021-12-09,2021-12-09,Lastschrift,"_7254297730 Paypal-ID _. CHECK24 Vergleichsportal ShoppingGmbH, Ihr Einkauf bei CHECK24 Vergleichsportal Shopping GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-70.94,10158.71,uncategorized,uncategorized
+127,2021-12-09,2021-12-09,Lastschrift,"Referenz 5YJGJYHXTPZCBH7AMkE.7(Q2,_+_.4Einreicher-ID _-7379350-5452335 AMZN Mktp DE 5YJGJYHXTPZCBH7A",Max Mustermann,AMAZON PAYMENTS EUROPE S.C.A.,-7.99,10229.65,other_dl,dailylife
+128,2021-12-09,2021-12-09,Lastschrift,"Referenz 3FVTMYYLZ41B2B9EMkE.7(Q2,_+_.4Einreicher-ID _-7379350-5452335 AMZN Mktp DE 3FVTMYYLZ41B2B9E",Max Mustermann,AMAZON PAYMENTS EUROPE S.C.A.,-7.99,10237.64,other_dl,dailylife
+129,2021-12-09,2021-12-09,Lastschrift,"Referenz 7D8JBUUFUKIMPZVBMkE.7(Q2,_+_.4Einreicher-ID _-1755791-1953146 AMZN Mktp DE 7D8JBUUFUKIMPZVB",Max Mustermann,AMAZON PAYMENTS EUROPE S.C.A.,-10.99,10245.63,other_dl,dailylife
+130,2021-12-08,2021-12-08,Lastschrift,"Referenz 3GO6RK303TGYC5UWMkE.7(Q2,_+_.4Einreicher-ID _-1755791-1953146 AMZN Mktp DE 3GO6RK303TGYC5UW",Max Mustermann,AMAZON PAYMENTS EUROPE S.C.A.,-159.0,10256.62,other_dl,dailylife
+131,2021-12-08,2021-12-08,Lastschrift,"Referenz 6I1MFXGE6VKCA0ANMkE.7(Q2,_+_.4Einreicher-ID _-5357371-6977923 AMZN Mktp DE 6I1MFXGE6VKCA0AN",Max Mustermann,AMAZON PAYMENTS EUROPE S.C.A.,-5.09,10415.62,other_dl,dailylife
+132,2021-12-07,2021-12-07,Lastschrift,"_7232066441 Paypal-ID _. CinemaxX Entertainment GmbH & Co.KG, Ihr Einkauf bei CinemaxX Entertainment GmbH & Co. KG",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-21.98,10420.71,cinema_dl,dailylife
+133,2021-12-07,2021-12-07,Lastschrift,"_7220202766 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-30.47,10442.69,food_delivery_dl,dailylife
+134,2021-12-07,2021-12-07,Dauerauftrag,MONATSBUDGET FÃR ALLTÃGLICHES,Max Mustermann,Max Mustermann,-400.0,10473.16,uncategorized,uncategorized
+135,2021-12-06,2021-12-06,Gutschrift,Referenz NOT PROVIDEDMIETE DEZEMBER 2021,MARIA GONZALEZ UnMi1,Max Mustermann,385.0,10873.16,revenue_lease,revenue_lease
+136,2021-12-06,2021-12-06,Dauergutschrift,Referenz NOTPROVIDEDVerwendungszweckKommando zurueck,Max Mustermann,Max Mustermann,250.0,10488.16,onetimer_revenue,onetimer_revenue
+137,2021-12-03,2021-12-03,Gutschrift,Referenz _gemaess Angebot v. 18.11.2021 bzgl. BGH-Urteil v 27.04.21abweichender AuftraggeberMax Mustermann,Landesbank BW,Max Mustermann,22.33,10238.16,onetimer_revenue,onetimer_revenue
+138,2021-12-03,2021-12-03,Lastschrift,"_7131411257 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10215.83,music_dl,dailylife
+139,2021-12-03,2021-12-03,Lastschrift,"_7131395242 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10219.82,music_dl,dailylife
+140,2021-12-03,2021-12-03,Lastschrift,"_7131389611 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10223.81,music_dl,dailylife
+141,2021-12-03,2021-12-03,Lastschrift,"_7131474787 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10227.8,music_dl,dailylife
+142,2021-12-03,2021-12-03,Lastschrift,"_7131369780 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10231.79,music_dl,dailylife
+143,2021-12-03,2021-12-03,Lastschrift,"_7131354096 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10235.78,music_dl,dailylife
+144,2021-12-02,2021-12-02,Lastschrift,Referenz Kd.nr. _ 2000/_/001Einreicher-ID _ vom 02.12.2021,Max Mustermann,NEULAND Wohnungsgesellschaft mbH,-496.41,10239.77,rent_lease,rent_lease
+145,2021-12-02,2021-12-02,Lastschrift,BUHL-DATA-SERVICE GMBH,Max Mustermann,BUHL-DATA-SERVICE GMBH,-29.95,10736.18,uncategorized,uncategorized
+146,2021-12-02,2021-12-02,Dauerauftrag,"MIETE FUER:HASENSTR. 1,7XXXX STUTTGART",Max Mustermann,W+I HAMMER,-840.0,10766.13,rent,rent
+147,2021-12-01,2021-12-01,Lastschrift,Referenz NOTPROVIDEDM01-20180607-164912-650678Einreicher-ID DE-ANYONE _ 007003 A2DVEZ,Max Mustermann,Max Mustermann,-40.0,11606.13,pension_parents,budgeted
+148,2021-12-01,2021-12-01,Lastschrift,Referenz NOTPROVIDEDM01-20180607-164912-650678Einreicher-ID DEXXX-Max Mustermann _ 007002 A0RPWH,Max Mustermann,Max Mustermann,-250.0,11646.13,savings_plan,cash
+149,2021-12-01,2021-12-01,Lastschrift,-,Max Mustermann,LSW Energie GmbH & Co. KG,-183.0,11896.13,rent_lease,rent_lease
+150,2021-12-01,2021-12-01,Lastschrift,BAUSPARVERTRAG,Max Mustermann,ALTE LEIPZIGER BAUSPAR AG,-250.0,12079.13,building_savings,cash
+151,2021-12-01,2021-12-01,Dauerauftrag,RUECKLAGEN,Max Mustermann,Max Mustermann,-50.0,12329.13,reserve,cash
+152,2021-12-01,2021-12-01,Dauerauftrag,URLAUB,Max Mustermann,Max Mustermann,-250.0,12379.13,holiday,budgeted
+153,2021-12-01,2021-12-01,Dauerauftrag,RENTE FÃR ELTERN,Max Mustermann,Max Mustermann,-10.0,12629.13,uncategorized,uncategorized
+154,2021-11-30,2021-11-30,Dauergutschrift,Referenz NOTPROVIDEDVerwendungszweckMiete,Doris UnMi3,Max Mustermann,360.0,12639.13,revenue_lease,revenue_lease
+155,2021-11-30,2021-11-30,Lastschrift,"_7030092817 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-2.01,12279.13,food_delivery_dl,dailylife
+156,2021-11-30,2021-11-30,Lastschrift,"_7030095371 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-40.1,12281.14,food_delivery_dl,dailylife
+157,2021-11-30,2021-11-30,Lastschrift,"_7021652205 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,12321.24,music_dl,dailylife
+158,2021-11-30,2021-11-30,Dauerauftrag,ETF-SPARPLAN,Max Mustermann,Max Mustermann,-250.0,12325.23,savings_plan,cash
+159,2021-11-30,2021-11-30,Dauerauftrag,DARLEHENSKONTONUMMER,Max Mustermann,BUNDESKASSE HALLE,-130.0,12575.23,debts,budgeted
+160,2021-11-29,2021-11-29,Lastschrift,DRK GENERALSEKRETARIAT,Max Mustermann,DRK GENERALSEKRETARIAT,-20.0,12705.23,donation,budgeted
+161,2021-11-29,2021-11-29,Ãberweisung,93222-748829-61A36233-CE21 Masoud Ghorbani-Farid Beste,Max Mustermann,Stichting Mollie Payments,-45.35,12725.23,grocery,grocery
+162,2021-11-26,2021-11-26,Gehalt/Rente,LOHN / GEHALT 11/21,YAZAKI EUROPE LTD. ZWEIGNIEDERLASSUNG KOELN,Max Mustermann,548.46,12770.58,revenue,revenue
+163,2021-11-26,2021-11-26,Gutschrift,ENTGELTUEBERWEISUNG 11.2021,mypegasus-Transfer-GmbH,Max Mustermann,3185.56,12222.12,revenue,revenue
+164,2021-11-26,2021-11-26,Ãberweisung,"2114130048922, Schluessel: 09019 -Pauschale f. Videokonferenzverbindung",Max Mustermann,Landesoberkasse Baden-WÃ¼rttemberg,-9.25,9036.56,uncategorized,uncategorized
+165,2021-11-26,2021-11-26,Lastschrift,"_7002498587 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-0.99,9045.81,music_dl,dailylife
+166,2021-11-26,2021-11-26,Lastschrift,"_6989439371 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-7.99,9046.8,music_dl,dailylife
+167,2021-11-26,2021-11-26,Lastschrift,Deutsche Post AG,Max Mustermann,Deutsche Post AG,-3.75,9054.79,onetimer_expenditure,onetimer_expenditure
+168,2021-11-25,2021-11-25,Dauergutschrift,Referenz _VerwendungszweckMiete,Meine Partnerin,Max Mustermann,473.44,9058.54,revenue,revenue
+169,2021-11-25,2021-11-25,Lastschrift,"_6983277669 Paypal-ID _. REWE Markt GmbH, Ihr Einkauf beiREWE Markt GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-36.41,8585.1,grocery,grocery
+170,2021-11-25,2021-11-25,Lastschrift,Referenz Beleg: 330014569163M_ _/Mustermann/ENERGIELIEFERUNG,Max Mustermann,Suewag Vertrieb AG CO.KG,-50.0,8621.51,rent,rent
+171,2021-11-25,2021-11-25,Lastschrift,Referenz Beleg: 330014569164M_ 290600204/Mustermann/ENERGIELIEFERUNG,Max Mustermann,Suewag Vertrieb AG CO.KG,-65.0,8671.51,rent,rent
+172,2021-11-24,2021-11-25,Ãberweisung,"IdNr. x123456789, Steuernummer 95380.34397, Vorauszahlung fuer 10. Dez 2021",Max Mustermann,Dt. Bundesbank Fil. Stuttgart,-1059.0,8736.51,onetimer_expenditure,onetimer_expenditure
+173,2021-11-24,2021-11-24,Lastschrift,"_6961931073 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-14.99,9795.51,music_dl,dailylife
+174,2021-11-23,2021-11-23,Lastschrift,"_6902408673 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-2.0,9810.5,food_delivery_dl,dailylife
+175,2021-11-23,2021-11-23,Lastschrift,"_6902415055 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-39.93,9812.5,food_delivery_dl,dailylife
+176,2021-11-19,2021-11-19,Ãberweisung,"Az 355/21K02, D5832-21, Schadennr.2021-00024773.6",Max Mustermann,Rechtsanwaltskanzlei Randow et al.,-150.0,9852.43,insurance,Provision
+177,2021-11-19,2021-11-19,Lastschrift,"_6870535668 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10002.43,music_dl,dailylife
+178,2021-11-19,2021-11-19,Lastschrift,"_6873496982 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-0.99,10006.42,music_dl,dailylife
+179,2021-11-19,2021-11-19,Lastschrift,"_6870479545 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10007.41,music_dl,dailylife
+180,2021-11-19,2021-11-19,Lastschrift,"_6870598667 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10011.4,music_dl,dailylife
+181,2021-11-18,2021-11-18,Lastschrift,"_6856833784 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-14.99,10015.39,music_dl,dailylife
+182,2021-11-18,2021-11-18,Lastschrift,Referenz NOTPROVIDEDM_ U440501586 B512808451 SIMply Rechnung,Max Mustermann,Drillisch Online GmbH,-12.49,10030.38,smartphone_dl,dailylife
+183,2021-11-18,2021-11-18,Lastschrift,"_6847359853 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10042.87,music_dl,dailylife
+184,2021-11-18,2021-11-18,Lastschrift,"_6847364041 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10046.86,music_dl,dailylife
+185,2021-11-17,2021-11-17,Ãberweisung,,Max Mustermann,Max Mustermann,-1000.0,10050.85,uncategorized,uncategorized
+186,2021-11-17,2021-11-17,Lastschrift,Referenz RECHNR. 100849388056M_-ID DE20KD00000005829411/2021 K-NR. _ Ihre Rechnung online bei www.vodafone.de/meinkabel,Max Mustermann,Vodafone Deutschland GmbH,-29.99,11050.85,rent_lease,rent_lease
+187,2021-11-17,2021-11-17,Lastschrift,"_6831027857 PAYPALLU96ZZZ.PP . posterXXL GmbH, Ihr Einkauf bei posterXXL GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-25.98,11080.84,other_dl,dailylife
+188,2021-11-16,2021-11-16,Lastschrift,"_6792525468 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.32,11106.82,food_delivery_dl,dailylife
+189,2021-11-16,2021-11-16,Lastschrift,"_6821372591 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,11108.14,music_dl,dailylife
+190,2021-11-16,2021-11-16,Lastschrift,"_6792518454 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-26.48,11112.13,food_delivery_dl,dailylife
+191,2021-11-15,2021-11-15,Lastschrift,"_6762410074 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.29,11138.61,music_dl,dailylife
+192,2021-11-15,2021-11-15,Lastschrift,"_6768412552 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,11139.9,music_dl,dailylife
+193,2021-11-15,2021-11-15,Lastschrift,"_6762352351 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.29,11143.89,music_dl,dailylife
+194,2021-11-15,2021-11-15,Lastschrift,"_6762425440 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.29,11145.18,music_dl,dailylife
+195,2021-11-15,2021-11-15,Lastschrift,"_6768510045 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,11146.47,music_dl,dailylife
+196,2021-11-15,2021-11-15,Lastschrift,"_6768506457 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,11150.46,music_dl,dailylife
+197,2021-11-15,2021-11-15,Lastschrift,"_6768482110 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-4.99,11154.45,music_dl,dailylife
+198,2021-11-15,2021-11-15,Lastschrift,"_6768436744 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,11159.44,music_dl,dailylife
+199,2021-11-15,2021-11-15,Lastschrift,"_6768440166 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,11163.43,music_dl,dailylife
+200,2021-11-15,2021-11-15,Lastschrift,"_6762364373 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.29,11167.42,music_dl,dailylife
+201,2021-11-12,2021-11-12,Lastschrift,_6736529304 CinemaxX Entertainment GmbH & Co. KG,Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-21.98,11168.71,cinema_dl,dailylife
+202,2021-11-09,2021-11-09,Lastschrift,"_6670566506 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-37.99,11190.69,food_delivery_dl,dailylife
+203,2021-11-09,2021-11-09,Lastschrift,"_6670577229 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.73,11228.68,food_delivery_dl,dailylife
+204,2021-11-09,2021-11-09,Lastschrift,"_6695440298 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,11230.41,music_dl,dailylife
+205,2021-11-08,2021-11-08,Kartenzahlung,Referenz 59081074230838061121185430M150492Einreicher-ID DE39DBV00000002177DB AUTOMAT//HEIDELBERG HBF/DETerminal 590810742021-11-06T18:54:30Folgenr. 03 Verfalld. 2212,Max Mustermann,DB Vertrieb GmbH,-64.7,11234.4,mobility,mobility
+206,2021-11-08,2021-11-08,Lastschrift,"_6630990782 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,11299.1,music_dl,dailylife
+207,2021-11-05,2021-11-05,Dauergutschrift,Referenz NOTPROVIDEDVerwendungszweckKommando zurueck,Max Mustermann,Max Mustermann,250.0,11303.09,onetimer_revenue,onetimer_revenue
+208,2021-11-05,2021-11-05,Lastschrift,"_6612274394 PAYPALLU96ZZZ.PP . DB Vertrieb GmbH, IhrEinkauf bei DB Vertrieb GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-26.8,11053.09,mobility,mobility
+209,2021-11-05,2021-11-05,Lastschrift,"_6609180386 PAYPALLU96ZZZ.PP . DB Vertrieb GmbH, IhrEinkauf bei DB Vertrieb GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-36.1,11079.89,mobility,mobility
+210,2021-11-05,2021-11-05,Dauerauftrag,MONATSBUDGET FÃR ALLTÃGLICHES,Max Mustermann,Max Mustermann,-400.0,11115.99,uncategorized,uncategorized
+211,2021-11-04,2021-11-04,Gutschrift,Referenz NOT PROVIDEDMIETE NOVEMBER 2021,MARIA GONZALEZ UnMi1,Max Mustermann,385.0,11515.99,revenue_lease,revenue_lease
+212,2021-11-04,2021-11-04,Lastschrift,"_6589267029 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,11130.99,music_dl,dailylife
+213,2021-11-04,2021-11-04,Lastschrift,"_6589131120 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,11134.98,music_dl,dailylife
+214,2021-11-04,2021-11-04,Lastschrift,Referenz KontoauflÃ¶sungabweichender AuftraggeberMax Mustermann,Max Mustermann,Max Mustermann,-18.06,11138.97,uncategorized,uncategorized
+215,2021-11-04,2021-11-04,Lastschrift,"Referenz 1NKCD6MJAPI07YN3MkE.7(Q2,_+_.4Einreicher-ID DEX-5140386-8224337 AMZN Mktp DE 1NKCD6MJAPI07YN3",Max Mustermann,AMAZON PAYMENTS EUROPE S.C.A.,-15.98,11157.03,other_dl,dailylife
+216,2021-11-03,2021-11-03,Gutschrift,Referenz Gutschrift BAUHAUS E-Bus. GmbHCo KG,BAHAG AG,Max Mustermann,209.99,11173.01,onetimer_revenue,onetimer_revenue
+217,2021-11-03,2021-11-03,Gutschrift,Referenz NOTPROVIDEDMiete November Erica UnMi2,ERICA UnMi2,Max Mustermann,410.0,10963.02,revenue_lease,revenue_lease
+218,2021-11-03,2021-11-03,Lastschrift,"_6563868706 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10553.02,music_dl,dailylife
+219,2021-11-03,2021-11-03,Lastschrift,"_6563803708 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10557.01,music_dl,dailylife
+220,2021-11-03,2021-11-03,Lastschrift,"_6563863979 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10561.0,music_dl,dailylife
+221,2021-11-03,2021-11-03,Lastschrift,"_6563748591 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10564.99,music_dl,dailylife
+222,2021-11-03,2021-11-03,Lastschrift,Referenz ZAA0098638673M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,Max Mustermann,LOGPAY FINANCIAL SERVICES GMBH,-2.55,10568.98,mobility,mobility
+223,2021-11-02,2021-11-02,Lastschrift,"_6521499011 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-33.0,10571.53,food_delivery_dl,dailylife
+224,2021-11-02,2021-11-02,Lastschrift,"_6563900836 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10604.53,music_dl,dailylife
+225,2021-11-02,2021-11-02,Lastschrift,Referenz Kd.nr. _ 2000/_/001Einreicher-ID _ vom 02.11.2021,Max Mustermann,NEULAND Wohnungsgesellschaft mbH,-496.41,10608.52,rent_lease,rent_lease
+226,2021-11-02,2021-11-02,Lastschrift,"Referenz 3E0LBYP92JMSQH86MkE.7(Q2,_+_.4Einreicher-ID DEX-7560943-1485118 AMZN Mktp DE 3E0LBYP92JMSQH86",Max Mustermann,AMAZON PAYMENTS EUROPE S.C.A.,-28.98,11104.93,other_dl,dailylife
+227,2021-11-02,2021-11-02,Dauerauftrag,"MIETE FUER:HASENSTR. 1,7XXXX STUTTGART",Max Mustermann,W+I HAMMER,-840.0,11133.91,rent,rent
+228,2021-11-01,2021-11-01,Dauergutschrift,Referenz NOTPROVIDEDVerwendungszweckMiete,Doris UnMi3,Max Mustermann,360.0,11973.91,revenue_lease,revenue_lease
+229,2021-11-01,2021-11-01,Kartenzahlung,Referenz SUEDMARKT GMBH,Max Mustermann,Lastschrift aus Kartenzahlung,-36.89,11613.91,grocery,grocery
+230,2021-11-01,2021-11-01,Lastschrift,-,Max Mustermann,LSW Energie GmbH & Co. KG,-183.0,11650.8,rent_lease,rent_lease
+231,2021-11-01,2021-11-01,Lastschrift,"_6503688313 PAYPALLU96ZZZ.PP . , Ihr Einkauf bei",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-191.0,11833.8,uncategorized,uncategorized
+232,2021-11-01,2021-11-01,Lastschrift,Referenz NOTPROVIDEDM01-20180607-164912-650678Einreicher-ID DEXXX-Max Mustermann _ 007000 A0F5UF,Max Mustermann,Max Mustermann,-250.0,12024.8,savings_plan,cash
+233,2021-11-01,2021-11-01,Lastschrift,Referenz NOTPROVIDEDM01-20180607-164912-650678Einreicher-ID DE-ANYONE _ 007003 A2DVEZ,Max Mustermann,Max Mustermann,-40.0,12274.8,pension_parents,budgeted
+234,2021-11-01,2021-11-01,Lastschrift,BAUSPARVERTRAG,Max Mustermann,ALTE LEIPZIGER BAUSPAR AG,-250.0,12314.8,building_savings,cash
+235,2021-11-01,2021-11-01,Dauerauftrag,RUECKLAGEN,Max Mustermann,Max Mustermann,-50.0,12564.8,reserve,cash
+236,2021-11-01,2021-11-01,Dauerauftrag,URLAUB,Max Mustermann,Max Mustermann,-250.0,12614.8,holiday,budgeted
+237,2021-11-01,2021-11-01,Dauerauftrag,RENTE FÃR ELTERN,Max Mustermann,Max Mustermann,-10.0,12864.8,uncategorized,uncategorized
+238,2021-11-01,2021-11-01,Dauerauftrag,DARLEHENSKONTONUMMER,Max Mustermann,BUNDESKASSE HALLE,-130.0,12874.8,debts,budgeted
+239,2021-10-29,2021-10-29,Lastschrift,Referenz ZAA0098396654M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,Max Mustermann,LOGPAY FINANCIAL SERVICES GMBH,-11.14,13004.8,mobility,mobility
+240,2021-10-29,2021-10-29,Lastschrift,"_6486133914 Paypal-ID _. CinemaxX Entertainment GmbH + Co.KG, Ihr Einkauf bei CinemaxX Entertainment GmbH + Co. KG",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-21.98,13015.94,cinema_dl,dailylife
+241,2021-10-29,2021-10-29,Dauerauftrag,ETF-SPARPLAN,Max Mustermann,Max Mustermann,-250.0,13037.92,savings_plan,cash
+242,2021-10-28,2021-10-28,Gehalt/Rente,ENTGELTUEBERWEISUNG 10.2021,mypegasus-Transfer-GmbH,Max Mustermann,3082.88,13287.92,revenue,revenue
+243,2021-10-28,2021-10-28,Lastschrift,"_6468315091 Paypal-ID _. REWE Markt GmbH, Ihr Einkauf beiREWE Markt GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-111.64,10205.04,grocery,grocery
+244,2021-10-28,2021-10-28,Lastschrift,DRK GENERALSEKRETARIAT,Max Mustermann,DRK GENERALSEKRETARIAT,-20.0,10316.68,donation,budgeted
+245,2021-10-27,2021-10-27,Lastschrift,Deutsche Post AG,Max Mustermann,Deutsche Post AG,-6.75,10336.68,onetimer_expenditure,onetimer_expenditure
+246,2021-10-26,2021-10-26,Gutschrift,"Referenz _ PAYPAL. H+M Hennes + Mauritz BV CO KG, Ihr Einkauf bei H+M Hennes + MauritzBV CO KG ABBUCHUNG VOM PAYPAL-KONTO","PayPal (Europe) S.a.r.l. et Cie., S.C.A.",Max Mustermann,39.99,10343.43,onetimer_revenue,onetimer_revenue
+247,2021-10-26,2021-10-26,Ãberweisung,,Max Mustermann,Max Mustermann,-164.12,10303.44,uncategorized,uncategorized
+248,2021-10-26,2021-10-26,Dauergutschrift,Referenz _VerwendungszweckMiete,Meine Partnerin,Max Mustermann,473.44,10467.56,revenue,revenue
+249,2021-10-26,2021-10-26,Lastschrift,"_6396388830 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,9994.12,music_dl,dailylife
+250,2021-10-26,2021-10-26,Lastschrift,"_6439996152 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,9998.11,music_dl,dailylife
+251,2021-10-26,2021-10-26,Lastschrift,"_6439992980 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10002.1,music_dl,dailylife
+252,2021-10-26,2021-10-26,Lastschrift,"_6429381402 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-23.5,10006.09,food_delivery_dl,dailylife
+253,2021-10-26,2021-10-26,Lastschrift,"_6429392529 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.18,10029.59,food_delivery_dl,dailylife
+254,2021-10-26,2021-10-26,Lastschrift,"Referenz _MkE.7(Q2,_+_.4Einreicher-ID DEX-0946839-5562705 AMZN Mktp DE _",Max Mustermann,AMAZON PAYMENTS EUROPE S.C.A.,-33.97,10030.77,other_dl,dailylife
+255,2021-10-26,2021-10-26,Lastschrift,"_6440009786 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-5.99,10064.74,music_dl,dailylife
+256,2021-10-26,2021-10-26,Lastschrift,"_6440020417 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-5.99,10070.73,music_dl,dailylife
+257,2021-10-26,2021-10-26,Lastschrift,"_6396150660 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.5,10076.72,food_delivery_dl,dailylife
+258,2021-10-26,2021-10-26,Lastschrift,"_6396346371 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10078.22,music_dl,dailylife
+259,2021-10-26,2021-10-26,Lastschrift,"_6396335292 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10082.21,music_dl,dailylife
+260,2021-10-26,2021-10-26,Lastschrift,"_6396143423 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-30.0,10086.2,food_delivery_dl,dailylife
+261,2021-10-26,2021-10-26,Lastschrift,"Referenz 5NVTKOTWL6VCYJL8MkE.7(Q2,_+_.4Einreicher-ID DEX-4894316-3009961 AMZN Mktp DE 5NVTKOTWL6VCYJL8",Max Mustermann,AMAZON PAYMENTS EUROPE S.C.A.,-72.99,10116.2,other_dl,dailylife
+262,2021-10-26,2021-10-26,Lastschrift,"_6438834519 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-0.99,10189.19,music_dl,dailylife
+263,2021-10-25,2021-10-25,Lastschrift,Referenz Beleg: _4400M_ _/Mustermann/ENERGIELIEFERUNG,Max Mustermann,Suewag Vertrieb AG CO.KG,-50.0,10190.18,rent,rent
+264,2021-10-25,2021-10-25,Lastschrift,Referenz Beleg: _4401M_ 290600204/Mustermann/ENERGIELIEFERUNG,Max Mustermann,Suewag Vertrieb AG CO.KG,-65.0,10240.18,rent,rent
+265,2021-10-25,2021-10-25,Lastschrift,"_6388860443 Paypal-ID _. REWE Markt GmbH, Ihr Einkauf beiREWE Markt GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-89.79,10305.18,grocery,grocery
+266,2021-10-25,2021-10-25,Lastschrift,"Referenz 3GMHS9KJOMSFPGYSMkE.7(Q2,_+_.4Einreicher-ID DEX-0946839-5562705 AMZN Mktp DE 3GMHS9KJOMSFPGYS",Max Mustermann,AMAZON PAYMENTS EUROPE S.C.A.,-59.99,10394.97,other_dl,dailylife
+267,2021-10-25,2021-10-25,Lastschrift,"Referenz 6VSLN3IC1WQD8779MkE.7(Q2,_+_.4Einreicher-ID DEX-2390274-3318754 AMZN Mktp DE 6VSLN3IC1WQD8779",Max Mustermann,AMAZON PAYMENTS EUROPE S.C.A.,-12.31,10454.96,other_dl,dailylife
+268,2021-10-21,2021-10-21,Gutschrift,Referenz QKYB3EAOCYXRULF5302-4078043-4023562 AMZ Amazon.de QKYB3EAOCYXRULF5,"AMAZON EU S.A R.L., NIEDERLASSUNG DEUTSCHLAND",Max Mustermann,104.99,10467.27,onetimer_revenue,onetimer_revenue
+269,2021-10-21,2021-10-21,Lastschrift,Referenz ZAA0097671698M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,Max Mustermann,LOGPAY FINANCIAL SERVICES GMBH,-2.55,10362.28,mobility,mobility
+270,2021-10-20,2021-10-20,Kartenzahlung,ZAP DR. ANJA BLESS-SIEVERS,Max Mustermann,ZAP DR. ANJA BLESS-SIEVERS,-82.0,10364.83,medicine,Provision
+271,2021-10-20,2021-10-20,Ãberweisung,Restkaution,Max Mustermann,Joelle X,-164.0,10446.83,onetimer_expenditure,onetimer_expenditure
+272,2021-10-20,2021-10-20,Lastschrift,Referenz ZAA0097585989M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,Max Mustermann,LOGPAY FINANCIAL SERVICES GMBH,-5.1,10610.83,mobility,mobility
+273,2021-10-19,2021-10-19,Lastschrift,"_6270104524 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10615.93,music_dl,dailylife
+274,2021-10-19,2021-10-19,Lastschrift,"_6276858597 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10619.92,music_dl,dailylife
+275,2021-10-19,2021-10-19,Lastschrift,"_6270049116 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10623.91,music_dl,dailylife
+276,2021-10-19,2021-10-19,Lastschrift,"_6276830003 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10627.9,music_dl,dailylife
+277,2021-10-19,2021-10-19,Lastschrift,"_6308788028 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-1.32,10631.89,food_delivery_dl,dailylife
+278,2021-10-19,2021-10-19,Lastschrift,"_6308779870 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-26.48,10633.21,food_delivery_dl,dailylife
+279,2021-10-19,2021-10-19,Lastschrift,"_6318848546 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-0.99,10659.69,music_dl,dailylife
+280,2021-10-19,2021-10-19,Lastschrift,"_6274591984 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-22.1,10660.68,food_delivery_dl,dailylife
+281,2021-10-19,2021-10-19,Lastschrift,Referenz NOTPROVIDEDM SIMply Rechnung,Max Mustermann,Drillisch Online GmbH,-12.49,10682.78,smartphone_dl,dailylife
+282,2021-10-19,2021-10-19,Lastschrift,"_6305711809 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-3.99,10695.27,music_dl,dailylife
+283,2021-10-19,2021-10-19,Lastschrift,"_6307264565 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-14.99,10699.26,music_dl,dailylife
+284,2021-10-18,2021-10-18,Lastschrift,"_6259013530 Paypal-ID _. REWE Markt GmbH, Ihr Einkauf beiREWE Markt GmbH",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-123.07,10714.25,grocery,grocery
+285,2021-10-18,2021-10-18,Lastschrift,"_6257867231 Paypal-ID _. H+M Hennes + Mauritz BV CO KG, Ihr Einkauf bei H+M Hennes + MauritzBV CO KG",Max Mustermann,"PayPal (Europe) S.a.r.l. et Cie., S.C.A.",-174.94,10837.32,clothes_dl,dailylife

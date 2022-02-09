@@ -1,0 +1,236 @@
+,buchungsdatum,buchungsdetails,betrag_eur,saldo,scategory,mcategory,auftraggeber,year,month
+0,2022-01-21,"_8023393572 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-0.69,10169.8,movies_dl,dailylife,Max Mustermann,2022,Jan
+1,2022-01-19,"_8002456534 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-0.99,10278.99,movies_dl,dailylife,Max Mustermann,2022,Jan
+2,2022-01-19,"Referenz 411100124073M_-ID DE11ZZZ00000144980Kunde _, siehe Zahlungsavis (E-Mail)",-20.14,10279.98,share_mobility_dl,dailylife,Max Mustermann,2022,Jan
+3,2022-01-19,Referenz NOTPROVIDEDM_ U451980729 B530900801 SIMply Rechnung,-14.66,10300.12,smartphone_dl,dailylife,Max Mustermann,2022,Jan
+4,2022-01-18,"_7940591630 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-1.15,10314.78,food_delivery_dl,dailylife,Max Mustermann,2022,Jan
+5,2022-01-18,"_7988679073 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,10315.93,movies_dl,dailylife,Max Mustermann,2022,Jan
+6,2022-01-18,"_7988729530 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,10319.92,movies_dl,dailylife,Max Mustermann,2022,Jan
+7,2022-01-18,"_7988686362 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,10323.91,movies_dl,dailylife,Max Mustermann,2022,Jan
+8,2022-01-18,"_7988698130 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,10327.9,movies_dl,dailylife,Max Mustermann,2022,Jan
+9,2022-01-18,"_7968770427 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-6.99,10331.89,movies_dl,dailylife,Max Mustermann,2022,Jan
+10,2022-01-18,"_7968696860 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-5.99,10338.88,movies_dl,dailylife,Max Mustermann,2022,Jan
+11,2022-01-18,"_7961976235 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-31.57,10344.87,food_delivery_dl,dailylife,Max Mustermann,2022,Jan
+12,2022-01-18,"_7940580612 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-22.97,10376.44,food_delivery_dl,dailylife,Max Mustermann,2022,Jan
+13,2022-01-17,"_7921745764 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-36.39,10399.41,food_delivery_dl,dailylife,Max Mustermann,2022,Jan
+14,2022-01-17,"_7921750712 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-1.82,10435.8,food_delivery_dl,dailylife,Max Mustermann,2022,Jan
+15,2022-01-17,Rundfunkbeitrag,-55.08,10467.61,rent,rent,Max Mustermann,2022,Jan
+16,2022-01-14,"Referenz 6CLGK58KY2BPPHG0MkE.7(Q2,_+_.4Einreicher-ID DE94ZZZ00000561653306-6275748-0489105 AMZN Mktp DE 6CLGK58KY2BPPHG0",-23.93,10522.69,other_dl,dailylife,Max Mustermann,2022,Jan
+17,2022-01-14,RF66X395487520,-105.0,10546.62,rent,rent,Max Mustermann,2022,Jan
+18,2022-01-12,"_7881087500 PAYPALLU96ZZZ.PP . MILES Mobility GmbH, Ihr Einkauf bei MILES Mobility GmbH",-19.5,10651.62,share_mobility_dl,dailylife,Max Mustermann,2022,Jan
+19,2022-01-11,"_7821684282 PAYPALLU96ZZZ.PP . IKEA Deutschland GmbH& Co. KG, Ihr Einkauf bei IKEA Deutschland GmbH & Co. KG",-97.43,10671.12,other_dl,dailylife,Max Mustermann,2022,Jan
+20,2022-01-11,"_7831161996 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-4.99,10768.55,movies_dl,dailylife,Max Mustermann,2022,Jan
+21,2022-01-11,"_7831371250 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-6.99,10773.54,movies_dl,dailylife,Max Mustermann,2022,Jan
+22,2022-01-11,"_7825187106 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-36.03,10780.53,food_delivery_dl,dailylife,Max Mustermann,2022,Jan
+23,2022-01-11,"_7831826469 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-8.99,10816.56,movies_dl,dailylife,Max Mustermann,2022,Jan
+24,2022-01-11,"_7867905383 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,10825.55,movies_dl,dailylife,Max Mustermann,2022,Jan
+25,2022-01-10,"_7813082627 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-1.29,10444.54,movies_dl,dailylife,Max Mustermann,2022,Jan
+26,2022-01-10,"_7813066278 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-1.29,10445.83,movies_dl,dailylife,Max Mustermann,2022,Jan
+27,2022-01-10,"Referenz 5R73CVD5EPYZ6T2CMkE.7(Q2,_+_.4Einreicher-ID DE94ZZZ00000561653306-0946215-9088315 AMZN Mktp DE 5R73CVD5EPYZ6T2C",-11.95,10447.12,other_dl,dailylife,Max Mustermann,2022,Jan
+28,2022-01-10,"_7813256075 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-8.99,10459.07,movies_dl,dailylife,Max Mustermann,2022,Jan
+29,2022-01-10,"_7813375977 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-7.99,10468.06,movies_dl,dailylife,Max Mustermann,2022,Jan
+30,2022-01-10,"_7812873041 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-6.99,10476.05,movies_dl,dailylife,Max Mustermann,2022,Jan
+31,2022-01-10,"_7812894381 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-1.29,10483.04,movies_dl,dailylife,Max Mustermann,2022,Jan
+32,2022-01-10,"_7812846928 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-5.99,10484.33,movies_dl,dailylife,Max Mustermann,2022,Jan
+33,2022-01-07,MONATSBUDGET FÃR ALLTÃGLICHES,-400.0,10490.32,uncategorized,uncategorized,Max Mustermann,2022,Jan
+34,2022-01-06,"Referenz 410900054927M_-ID DE11ZZZ00000144980Kunde _, siehe Zahlungsavis (E-Mail)",-4.68,10839.25,share_mobility_dl,dailylife,Max Mustermann,2022,Jan
+35,2022-01-06,Referenz ZAA0102526038M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,-2.55,10843.93,mobility,mobility,Max Mustermann,2022,Jan
+36,2022-01-06,"_7780353700 Paypal-ID _. REWE Markt GmbH, Ihr Einkauf beiREWE Markt GmbH",-91.74,10846.48,grocery,grocery,Max Mustermann,2022,Jan
+37,2022-01-05,"_7744012413 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-13.98,11184.63,movies_dl,dailylife,Max Mustermann,2022,Jan
+38,2022-01-04,"_7735014896 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-1.25,10928.61,food_delivery_dl,dailylife,Max Mustermann,2022,Jan
+39,2022-01-04,"_7734999496 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-25.0,10929.86,food_delivery_dl,dailylife,Max Mustermann,2022,Jan
+40,2022-01-04,"_7728831452 PAYPALLU96ZZZ.PP . LogPay Financial Services GmbH, Ihr Einkauf bei LogPay Financial Services GmbH",-3.0,10954.86,uncategorized,uncategorized,Max Mustermann,2022,Jan
+41,2022-01-04,"_7728834974 PAYPALLU96ZZZ.PP . LogPay Financial Services GmbH, Ihr Einkauf bei LogPay Financial Services GmbH",-3.0,10957.86,uncategorized,uncategorized,Max Mustermann,2022,Jan
+42,2022-01-04,"_7710599526 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,10960.86,movies_dl,dailylife,Max Mustermann,2022,Jan
+43,2022-01-04,"_7728782796 PAYPALLU96ZZZ.PP . MILES Mobility GmbH, Ihr Einkauf bei MILES Mobility GmbH",-3.65,10964.85,share_mobility_dl,dailylife,Max Mustermann,2022,Jan
+44,2022-01-04,"_7710570833 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,10968.5,movies_dl,dailylife,Max Mustermann,2022,Jan
+45,2022-01-04,"_7710490252 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,10972.49,movies_dl,dailylife,Max Mustermann,2022,Jan
+46,2022-01-03,Referenz NOTPROVIDEDM01-20180607-164912-650678Einreicher-ID DE-ANYONE _ 007003 A2DVEZ,-40.0,12042.46,pension_parents,budgeted,Max Mustermann,2022,Jan
+47,2022-01-03,Referenz NOTPROVIDEDM01-20180607-164912-650678Einreicher-ID DEXXX-Max Mustermann _ 007001 593393,-250.0,12082.46,savings_plan,cash,Max Mustermann,2022,Jan
+48,2022-01-03,Referenz VZ2112310358653012M045906Einreicher-ID DE37SCC00000040819SUMUP .PLIETS.H. - STEFA//BERLIN/DE2021-12-30T14:44:49Folgenr. 003 Verfalld. 2212,-125.0,12332.46,other_dl,dailylife,Max Mustermann,2022,Jan
+49,2022-01-03,"_7669527106 PAYPALLU96ZZZ.PP . MILES Mobility GmbH, Ihr Einkauf bei MILES Mobility GmbH",-35.0,12640.46,share_mobility_dl,dailylife,Max Mustermann,2022,Jan
+50,2022-01-03,"_7657940573 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,12675.46,movies_dl,dailylife,Max Mustermann,2022,Jan
+51,2022-01-03,"_7657994705 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,12679.45,movies_dl,dailylife,Max Mustermann,2022,Jan
+52,2022-01-03,"_7663298376 PAYPALLU96ZZZ.PP . MILES Mobility GmbH, Ihr Einkauf bei MILES Mobility GmbH",-18.7,12683.44,share_mobility_dl,dailylife,Max Mustermann,2022,Jan
+53,2022-01-03,BAUSPARVERTRAG,-250.0,12702.14,building_savings,cash,Max Mustermann,2022,Jan
+54,2022-01-03,"_7657980176 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,12952.14,movies_dl,dailylife,Max Mustermann,2022,Jan
+55,2022-01-03,RUECKLAGEN,-50.0,12956.13,reserve,cash,Max Mustermann,2022,Jan
+56,2022-01-03,"MIETE FUER:HASENSTR. 1,7XXXX STUTTGART",-860.0,13006.13,rent,rent,Max Mustermann,2022,Jan
+57,2022-01-03,URLAUB,-250.0,13866.13,holiday,budgeted,Max Mustermann,2022,Jan
+58,2022-01-03,RENTE FÃR ELTERN,-10.0,14116.13,uncategorized,uncategorized,Max Mustermann,2022,Jan
+59,2021-12-30,"Referenz 410700072346M_-ID DE11ZZZ00000144980Kunde _, siehe Zahlungsavis (E-Mail)",-11.55,13766.13,share_mobility_dl,dailylife,Max Mustermann,2021,Dec
+60,2021-12-30,ETF-SPARPLAN,-250.0,13777.68,savings_plan,cash,Max Mustermann,2021,Dec
+61,2021-12-30,DARLEHENSKONTONUMMER,-130.0,14027.68,debts,budgeted,Max Mustermann,2021,Dec
+62,2021-12-29,Referenz ZAA0102022265M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,-5.1,13430.08,mobility,mobility,Max Mustermann,2021,Dec
+63,2021-12-28,086 HELLWEG SAGT DANKE,-94.97,10300.96,other_dl,dailylife,Max Mustermann,2021,Dec
+64,2021-12-28,"_7592122560 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-0.99,10395.93,movies_dl,dailylife,Max Mustermann,2021,Dec
+65,2021-12-28,"_7595583983 PAYPALLU96ZZZ.PP . UMI Urban Mobility International GmbH, Ihr Einkauf bei UMI Urban Mobility International GmbH",-8.83,10396.92,share_mobility_dl,dailylife,Max Mustermann,2021,Dec
+66,2021-12-27,"_7566753153 PAYPALLU96ZZZ.PP . Voi Technology GermanyGmbH, Ihr Einkauf bei Voi Technology Germany GmbH",-1.06,9924.71,share_mobility_dl,dailylife,Max Mustermann,2021,Dec
+67,2021-12-27,"Referenz 410600118428M_-ID DE11ZZZ00000144980Kunde _, siehe Zahlungsavis (E-Mail)",-19.2,9925.77,share_mobility_dl,dailylife,Max Mustermann,2021,Dec
+68,2021-12-27,Referenz Beleg: 311008698828M_ 290600204/Mustermann/ENERGIELIEFERUNG,-65.0,9944.97,rent,rent,Max Mustermann,2021,Dec
+69,2021-12-27,Referenz Beleg: 311008698827M_ _/Mustermann/ENERGIELIEFERUNG,-50.0,10009.97,rent,rent,Max Mustermann,2021,Dec
+70,2021-12-27,"_7561882105 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,10059.97,movies_dl,dailylife,Max Mustermann,2021,Dec
+71,2021-12-27,"_7561793484 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-5.99,10063.96,movies_dl,dailylife,Max Mustermann,2021,Dec
+72,2021-12-27,"Referenz 411300048256M_-ID DE11ZZZ00000144980Kunde _, siehe Zahlungsavis (E-Mail)",-3.63,10069.95,share_mobility_dl,dailylife,Max Mustermann,2021,Dec
+73,2021-12-23,DRK GENERALSEKRETARIAT,-20.0,10073.58,donation,budgeted,Max Mustermann,2021,Dec
+74,2021-12-22,Referenz ZAA0101748073M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,-3.02,10093.58,mobility,mobility,Max Mustermann,2021,Dec
+75,2021-12-22,Referenz ZAA0101685020M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,-2.55,10096.6,mobility,mobility,Max Mustermann,2021,Dec
+76,2021-12-21,"_7468413428 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-0.99,10131.63,movies_dl,dailylife,Max Mustermann,2021,Dec
+77,2021-12-21,Referenz ZAA0101622422M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,-5.1,10132.62,mobility,mobility,Max Mustermann,2021,Dec
+78,2021-12-21,"_7452428100 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-7.99,10137.72,movies_dl,dailylife,Max Mustermann,2021,Dec
+79,2021-12-21,"_7452296363 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,10145.71,movies_dl,dailylife,Max Mustermann,2021,Dec
+80,2021-12-20,"_7445029635 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,10149.7,movies_dl,dailylife,Max Mustermann,2021,Dec
+81,2021-12-20,"_7445468121 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-9.98,10153.69,movies_dl,dailylife,Max Mustermann,2021,Dec
+82,2021-12-20,"_7445010398 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,10163.67,movies_dl,dailylife,Max Mustermann,2021,Dec
+83,2021-12-20,"_7444953416 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,10167.66,movies_dl,dailylife,Max Mustermann,2021,Dec
+84,2021-12-20,"_7445018027 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,10171.65,movies_dl,dailylife,Max Mustermann,2021,Dec
+85,2021-12-17,Referenz NOTPROVIDEDM_ U446305286 B523987889 SIMply Rechnung,-12.49,10175.64,smartphone_dl,dailylife,Max Mustermann,2021,Dec
+87,2021-12-15,"_7380290822 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-12.99,9898.11,movies_dl,dailylife,Max Mustermann,2021,Dec
+88,2021-12-14,"_7369786947 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,9911.1,movies_dl,dailylife,Max Mustermann,2021,Dec
+89,2021-12-14,"_7369807478 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,9915.09,movies_dl,dailylife,Max Mustermann,2021,Dec
+90,2021-12-14,"_7369884163 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,9919.08,movies_dl,dailylife,Max Mustermann,2021,Dec
+91,2021-12-14,"_7369770566 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,9923.07,movies_dl,dailylife,Max Mustermann,2021,Dec
+92,2021-12-14,"_7320691063 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-1.7,9927.06,food_delivery_dl,dailylife,Max Mustermann,2021,Dec
+93,2021-12-14,"_7322208705 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-18.04,9928.76,food_delivery_dl,dailylife,Max Mustermann,2021,Dec
+94,2021-12-14,"_7369811277 PAYPALLU96ZZZ.PP . Apple Services, Ihr Einkauf bei Apple Services",-3.99,9946.8,movies_dl,dailylife,Max Mustermann,2021,Dec
+95,2021-12-14,"_7320682255 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-34.0,9950.79,food_delivery_dl,dailylife,Max Mustermann,2021,Dec
+96,2021-12-14,"Referenz 1XBYQX42B43DLM4PMkE.7(Q2,_+_.4Einreicher-ID DE24ZZZ00000561652304-2003815-1560365 Amazon.de 1XBYQX42B43DLM4P",-47.9,9984.79,other_dl,dailylife,Max Mustermann,2021,Dec
+97,2021-12-13,"Referenz 3IVRZO9VEEU3J58RMkE.7(Q2,_+_.4Einreicher-ID DE24ZZZ00000561652304-5468802-7088347 Amazon.de 3IVRZO9VEEU3J58R",-9.25,10032.69,other_dl,dailylife,Max Mustermann,2021,Dec
+98,2021-12-13,"_7311885923 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-4.99,10041.94,music_dl,dailylife,Max Mustermann,2021,Dec
+99,2021-12-10,"Referenz 36TA8V6QHCJE7W1VMkE.7(Q2,_+_.4Einreicher-ID _-3388775-3033910 AMZN Mktp DE 36TA8V6QHCJE7W1V",-45.98,10046.93,other_dl,dailylife,Max Mustermann,2021,Dec
+100,2021-12-10,"_7281316671 PAYPALLU96ZZZ.PP . DB Vertrieb GmbH, IhrEinkauf bei DB Vertrieb GmbH",-65.8,10092.91,mobility,mobility,Max Mustermann,2021,Dec
+101,2021-12-09,"_7254297730 Paypal-ID _. CHECK24 Vergleichsportal ShoppingGmbH, Ihr Einkauf bei CHECK24 Vergleichsportal Shopping GmbH",-70.94,10158.71,uncategorized,uncategorized,Max Mustermann,2021,Dec
+102,2021-12-09,"Referenz 5YJGJYHXTPZCBH7AMkE.7(Q2,_+_.4Einreicher-ID _-7379350-5452335 AMZN Mktp DE 5YJGJYHXTPZCBH7A",-7.99,10229.65,other_dl,dailylife,Max Mustermann,2021,Dec
+103,2021-12-09,"Referenz 3FVTMYYLZ41B2B9EMkE.7(Q2,_+_.4Einreicher-ID _-7379350-5452335 AMZN Mktp DE 3FVTMYYLZ41B2B9E",-7.99,10237.64,other_dl,dailylife,Max Mustermann,2021,Dec
+104,2021-12-09,"Referenz 7D8JBUUFUKIMPZVBMkE.7(Q2,_+_.4Einreicher-ID _-1755791-1953146 AMZN Mktp DE 7D8JBUUFUKIMPZVB",-10.99,10245.63,other_dl,dailylife,Max Mustermann,2021,Dec
+105,2021-12-08,"Referenz 3GO6RK303TGYC5UWMkE.7(Q2,_+_.4Einreicher-ID _-1755791-1953146 AMZN Mktp DE 3GO6RK303TGYC5UW",-159.0,10256.62,other_dl,dailylife,Max Mustermann,2021,Dec
+106,2021-12-08,"Referenz 6I1MFXGE6VKCA0ANMkE.7(Q2,_+_.4Einreicher-ID _-5357371-6977923 AMZN Mktp DE 6I1MFXGE6VKCA0AN",-5.09,10415.62,other_dl,dailylife,Max Mustermann,2021,Dec
+107,2021-12-07,"_7232066441 Paypal-ID _. CinemaxX Entertainment GmbH & Co.KG, Ihr Einkauf bei CinemaxX Entertainment GmbH & Co. KG",-21.98,10420.71,cinema_dl,dailylife,Max Mustermann,2021,Dec
+108,2021-12-07,"_7220202766 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-30.47,10442.69,food_delivery_dl,dailylife,Max Mustermann,2021,Dec
+109,2021-12-07,MONATSBUDGET FÃR ALLTÃGLICHES,-400.0,10473.16,uncategorized,uncategorized,Max Mustermann,2021,Dec
+110,2021-12-03,"_7131411257 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10215.83,music_dl,dailylife,Max Mustermann,2021,Dec
+111,2021-12-03,"_7131395242 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10219.82,music_dl,dailylife,Max Mustermann,2021,Dec
+112,2021-12-03,"_7131389611 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10223.81,music_dl,dailylife,Max Mustermann,2021,Dec
+113,2021-12-03,"_7131474787 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10227.8,music_dl,dailylife,Max Mustermann,2021,Dec
+114,2021-12-03,"_7131369780 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10231.79,music_dl,dailylife,Max Mustermann,2021,Dec
+115,2021-12-03,"_7131354096 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10235.78,music_dl,dailylife,Max Mustermann,2021,Dec
+116,2021-12-02,BUHL-DATA-SERVICE GMBH,-29.95,10736.18,uncategorized,uncategorized,Max Mustermann,2021,Dec
+117,2021-12-02,"MIETE FUER:HASENSTR. 1,7XXXX STUTTGART",-840.0,10766.13,rent,rent,Max Mustermann,2021,Dec
+118,2021-12-01,Referenz NOTPROVIDEDM01-20180607-164912-650678Einreicher-ID DE-ANYONE _ 007003 A2DVEZ,-40.0,11606.13,pension_parents,budgeted,Max Mustermann,2021,Dec
+119,2021-12-01,Referenz NOTPROVIDEDM01-20180607-164912-650678Einreicher-ID DEXXX-Max Mustermann _ 007002 A0RPWH,-250.0,11646.13,savings_plan,cash,Max Mustermann,2021,Dec
+120,2021-12-01,BAUSPARVERTRAG,-250.0,12079.13,building_savings,cash,Max Mustermann,2021,Dec
+121,2021-12-01,RUECKLAGEN,-50.0,12329.13,reserve,cash,Max Mustermann,2021,Dec
+122,2021-12-01,URLAUB,-250.0,12379.13,holiday,budgeted,Max Mustermann,2021,Dec
+123,2021-12-01,RENTE FÃR ELTERN,-10.0,12629.13,uncategorized,uncategorized,Max Mustermann,2021,Dec
+124,2021-11-30,"_7030092817 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-2.01,12279.13,food_delivery_dl,dailylife,Max Mustermann,2021,Nov
+125,2021-11-30,"_7030095371 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-40.1,12281.14,food_delivery_dl,dailylife,Max Mustermann,2021,Nov
+126,2021-11-30,"_7021652205 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,12321.24,music_dl,dailylife,Max Mustermann,2021,Nov
+127,2021-11-30,ETF-SPARPLAN,-250.0,12325.23,savings_plan,cash,Max Mustermann,2021,Nov
+128,2021-11-30,DARLEHENSKONTONUMMER,-130.0,12575.23,debts,budgeted,Max Mustermann,2021,Nov
+129,2021-11-29,DRK GENERALSEKRETARIAT,-20.0,12705.23,donation,budgeted,Max Mustermann,2021,Nov
+130,2021-11-29,93222-748829-61A36233-CE21 Masoud Ghorbani-Farid Beste,-45.35,12725.23,grocery,grocery,Max Mustermann,2021,Nov
+131,2021-11-26,"2114130048922, Schluessel: 09019 -Pauschale f. Videokonferenzverbindung",-9.25,9036.56,uncategorized,uncategorized,Max Mustermann,2021,Nov
+132,2021-11-26,"_7002498587 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-0.99,9045.81,music_dl,dailylife,Max Mustermann,2021,Nov
+133,2021-11-26,"_6989439371 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-7.99,9046.8,music_dl,dailylife,Max Mustermann,2021,Nov
+134,2021-11-25,"_6983277669 Paypal-ID _. REWE Markt GmbH, Ihr Einkauf beiREWE Markt GmbH",-36.41,8585.1,grocery,grocery,Max Mustermann,2021,Nov
+135,2021-11-25,Referenz Beleg: 330014569163M_ _/Mustermann/ENERGIELIEFERUNG,-50.0,8621.51,rent,rent,Max Mustermann,2021,Nov
+136,2021-11-25,Referenz Beleg: 330014569164M_ 290600204/Mustermann/ENERGIELIEFERUNG,-65.0,8671.51,rent,rent,Max Mustermann,2021,Nov
+138,2021-11-23,"_6902408673 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-2.0,9810.5,food_delivery_dl,dailylife,Max Mustermann,2021,Nov
+139,2021-11-23,"_6902415055 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-39.93,9812.5,food_delivery_dl,dailylife,Max Mustermann,2021,Nov
+140,2021-11-19,"_6870535668 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10002.43,music_dl,dailylife,Max Mustermann,2021,Nov
+141,2021-11-19,"_6873496982 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-0.99,10006.42,music_dl,dailylife,Max Mustermann,2021,Nov
+142,2021-11-19,"_6870479545 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10007.41,music_dl,dailylife,Max Mustermann,2021,Nov
+143,2021-11-19,"_6870598667 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10011.4,music_dl,dailylife,Max Mustermann,2021,Nov
+145,2021-11-18,Referenz NOTPROVIDEDM_ U440501586 B512808451 SIMply Rechnung,-12.49,10030.38,smartphone_dl,dailylife,Max Mustermann,2021,Nov
+146,2021-11-18,"_6847359853 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10042.87,music_dl,dailylife,Max Mustermann,2021,Nov
+147,2021-11-18,"_6847364041 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10046.86,music_dl,dailylife,Max Mustermann,2021,Nov
+149,2021-11-17,"_6831027857 PAYPALLU96ZZZ.PP . posterXXL GmbH, Ihr Einkauf bei posterXXL GmbH",-25.98,11080.84,other_dl,dailylife,Max Mustermann,2021,Nov
+150,2021-11-16,"_6792525468 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-1.32,11106.82,food_delivery_dl,dailylife,Max Mustermann,2021,Nov
+151,2021-11-16,"_6821372591 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,11108.14,music_dl,dailylife,Max Mustermann,2021,Nov
+152,2021-11-16,"_6792518454 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-26.48,11112.13,food_delivery_dl,dailylife,Max Mustermann,2021,Nov
+153,2021-11-15,"_6762410074 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-1.29,11138.61,music_dl,dailylife,Max Mustermann,2021,Nov
+154,2021-11-15,"_6768412552 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,11139.9,music_dl,dailylife,Max Mustermann,2021,Nov
+155,2021-11-15,"_6762352351 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-1.29,11143.89,music_dl,dailylife,Max Mustermann,2021,Nov
+156,2021-11-15,"_6762425440 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-1.29,11145.18,music_dl,dailylife,Max Mustermann,2021,Nov
+157,2021-11-15,"_6768510045 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,11146.47,music_dl,dailylife,Max Mustermann,2021,Nov
+158,2021-11-15,"_6768506457 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,11150.46,music_dl,dailylife,Max Mustermann,2021,Nov
+159,2021-11-15,"_6768482110 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-4.99,11154.45,music_dl,dailylife,Max Mustermann,2021,Nov
+160,2021-11-15,"_6768436744 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,11159.44,music_dl,dailylife,Max Mustermann,2021,Nov
+161,2021-11-15,"_6768440166 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,11163.43,music_dl,dailylife,Max Mustermann,2021,Nov
+162,2021-11-15,"_6762364373 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-1.29,11167.42,music_dl,dailylife,Max Mustermann,2021,Nov
+163,2021-11-12,_6736529304 CinemaxX Entertainment GmbH & Co. KG,-21.98,11168.71,cinema_dl,dailylife,Max Mustermann,2021,Nov
+164,2021-11-09,"_6670566506 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-37.99,11190.69,food_delivery_dl,dailylife,Max Mustermann,2021,Nov
+165,2021-11-09,"_6670577229 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-1.73,11228.68,food_delivery_dl,dailylife,Max Mustermann,2021,Nov
+166,2021-11-09,"_6695440298 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,11230.41,music_dl,dailylife,Max Mustermann,2021,Nov
+167,2021-11-08,Referenz 59081074230838061121185430M150492Einreicher-ID DE39DBV00000002177DB AUTOMAT//HEIDELBERG HBF/DETerminal 590810742021-11-06T18:54:30Folgenr. 03 Verfalld. 2212,-64.7,11234.4,mobility,mobility,Max Mustermann,2021,Nov
+168,2021-11-08,"_6630990782 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,11299.1,music_dl,dailylife,Max Mustermann,2021,Nov
+169,2021-11-05,"_6612274394 PAYPALLU96ZZZ.PP . DB Vertrieb GmbH, IhrEinkauf bei DB Vertrieb GmbH",-26.8,11053.09,mobility,mobility,Max Mustermann,2021,Nov
+170,2021-11-05,"_6609180386 PAYPALLU96ZZZ.PP . DB Vertrieb GmbH, IhrEinkauf bei DB Vertrieb GmbH",-36.1,11079.89,mobility,mobility,Max Mustermann,2021,Nov
+171,2021-11-05,MONATSBUDGET FÃR ALLTÃGLICHES,-400.0,11115.99,uncategorized,uncategorized,Max Mustermann,2021,Nov
+172,2021-11-04,"_6589267029 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,11130.99,music_dl,dailylife,Max Mustermann,2021,Nov
+173,2021-11-04,"_6589131120 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,11134.98,music_dl,dailylife,Max Mustermann,2021,Nov
+174,2021-11-04,Referenz KontoauflÃ¶sungabweichender AuftraggeberMax Mustermann,-18.06,11138.97,uncategorized,uncategorized,Max Mustermann,2021,Nov
+175,2021-11-04,"Referenz 1NKCD6MJAPI07YN3MkE.7(Q2,_+_.4Einreicher-ID DEX-5140386-8224337 AMZN Mktp DE 1NKCD6MJAPI07YN3",-15.98,11157.03,other_dl,dailylife,Max Mustermann,2021,Nov
+176,2021-11-03,"_6563868706 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10553.02,music_dl,dailylife,Max Mustermann,2021,Nov
+177,2021-11-03,"_6563803708 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10557.01,music_dl,dailylife,Max Mustermann,2021,Nov
+178,2021-11-03,"_6563863979 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10561.0,music_dl,dailylife,Max Mustermann,2021,Nov
+179,2021-11-03,"_6563748591 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10564.99,music_dl,dailylife,Max Mustermann,2021,Nov
+180,2021-11-03,Referenz ZAA0098638673M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,-2.55,10568.98,mobility,mobility,Max Mustermann,2021,Nov
+181,2021-11-02,"_6521499011 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-33.0,10571.53,food_delivery_dl,dailylife,Max Mustermann,2021,Nov
+182,2021-11-02,"_6563900836 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10604.53,music_dl,dailylife,Max Mustermann,2021,Nov
+183,2021-11-02,"Referenz 3E0LBYP92JMSQH86MkE.7(Q2,_+_.4Einreicher-ID DEX-7560943-1485118 AMZN Mktp DE 3E0LBYP92JMSQH86",-28.98,11104.93,other_dl,dailylife,Max Mustermann,2021,Nov
+184,2021-11-02,"MIETE FUER:HASENSTR. 1,7XXXX STUTTGART",-840.0,11133.91,rent,rent,Max Mustermann,2021,Nov
+185,2021-11-01,Referenz SUEDMARKT GMBH,-36.89,11613.91,grocery,grocery,Max Mustermann,2021,Nov
+186,2021-11-01,"_6503688313 PAYPALLU96ZZZ.PP . , Ihr Einkauf bei",-191.0,11833.8,uncategorized,uncategorized,Max Mustermann,2021,Nov
+187,2021-11-01,Referenz NOTPROVIDEDM01-20180607-164912-650678Einreicher-ID DEXXX-Max Mustermann _ 007000 A0F5UF,-250.0,12024.8,savings_plan,cash,Max Mustermann,2021,Nov
+188,2021-11-01,Referenz NOTPROVIDEDM01-20180607-164912-650678Einreicher-ID DE-ANYONE _ 007003 A2DVEZ,-40.0,12274.8,pension_parents,budgeted,Max Mustermann,2021,Nov
+189,2021-11-01,BAUSPARVERTRAG,-250.0,12314.8,building_savings,cash,Max Mustermann,2021,Nov
+190,2021-11-01,RUECKLAGEN,-50.0,12564.8,reserve,cash,Max Mustermann,2021,Nov
+191,2021-11-01,URLAUB,-250.0,12614.8,holiday,budgeted,Max Mustermann,2021,Nov
+192,2021-11-01,RENTE FÃR ELTERN,-10.0,12864.8,uncategorized,uncategorized,Max Mustermann,2021,Nov
+193,2021-11-01,DARLEHENSKONTONUMMER,-130.0,12874.8,debts,budgeted,Max Mustermann,2021,Nov
+194,2021-10-29,Referenz ZAA0098396654M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,-11.14,13004.8,mobility,mobility,Max Mustermann,2021,Oct
+195,2021-10-29,"_6486133914 Paypal-ID _. CinemaxX Entertainment GmbH + Co.KG, Ihr Einkauf bei CinemaxX Entertainment GmbH + Co. KG",-21.98,13015.94,cinema_dl,dailylife,Max Mustermann,2021,Oct
+196,2021-10-29,ETF-SPARPLAN,-250.0,13037.92,savings_plan,cash,Max Mustermann,2021,Oct
+197,2021-10-28,"_6468315091 Paypal-ID _. REWE Markt GmbH, Ihr Einkauf beiREWE Markt GmbH",-111.64,10205.04,grocery,grocery,Max Mustermann,2021,Oct
+198,2021-10-28,DRK GENERALSEKRETARIAT,-20.0,10316.68,donation,budgeted,Max Mustermann,2021,Oct
+199,2021-10-26,,-164.12,10303.44,uncategorized,uncategorized,Max Mustermann,2021,Oct
+200,2021-10-26,"_6396388830 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,9994.12,music_dl,dailylife,Max Mustermann,2021,Oct
+201,2021-10-26,"_6439996152 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,9998.11,music_dl,dailylife,Max Mustermann,2021,Oct
+202,2021-10-26,"_6439992980 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10002.1,music_dl,dailylife,Max Mustermann,2021,Oct
+203,2021-10-26,"_6429381402 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-23.5,10006.09,food_delivery_dl,dailylife,Max Mustermann,2021,Oct
+204,2021-10-26,"_6429392529 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-1.18,10029.59,food_delivery_dl,dailylife,Max Mustermann,2021,Oct
+205,2021-10-26,"Referenz _MkE.7(Q2,_+_.4Einreicher-ID DEX-0946839-5562705 AMZN Mktp DE _",-33.97,10030.77,other_dl,dailylife,Max Mustermann,2021,Oct
+206,2021-10-26,"_6440009786 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-5.99,10064.74,music_dl,dailylife,Max Mustermann,2021,Oct
+207,2021-10-26,"_6440020417 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-5.99,10070.73,music_dl,dailylife,Max Mustermann,2021,Oct
+208,2021-10-26,"_6396150660 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-1.5,10076.72,food_delivery_dl,dailylife,Max Mustermann,2021,Oct
+209,2021-10-26,"_6396346371 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10078.22,music_dl,dailylife,Max Mustermann,2021,Oct
+210,2021-10-26,"_6396335292 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10082.21,music_dl,dailylife,Max Mustermann,2021,Oct
+211,2021-10-26,"_6396143423 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-30.0,10086.2,food_delivery_dl,dailylife,Max Mustermann,2021,Oct
+212,2021-10-26,"Referenz 5NVTKOTWL6VCYJL8MkE.7(Q2,_+_.4Einreicher-ID DEX-4894316-3009961 AMZN Mktp DE 5NVTKOTWL6VCYJL8",-72.99,10116.2,other_dl,dailylife,Max Mustermann,2021,Oct
+213,2021-10-26,"_6438834519 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-0.99,10189.19,music_dl,dailylife,Max Mustermann,2021,Oct
+214,2021-10-25,Referenz Beleg: _4400M_ _/Mustermann/ENERGIELIEFERUNG,-50.0,10190.18,rent,rent,Max Mustermann,2021,Oct
+215,2021-10-25,Referenz Beleg: _4401M_ 290600204/Mustermann/ENERGIELIEFERUNG,-65.0,10240.18,rent,rent,Max Mustermann,2021,Oct
+216,2021-10-25,"_6388860443 Paypal-ID _. REWE Markt GmbH, Ihr Einkauf beiREWE Markt GmbH",-89.79,10305.18,grocery,grocery,Max Mustermann,2021,Oct
+217,2021-10-25,"Referenz 3GMHS9KJOMSFPGYSMkE.7(Q2,_+_.4Einreicher-ID DEX-0946839-5562705 AMZN Mktp DE 3GMHS9KJOMSFPGYS",-59.99,10394.97,other_dl,dailylife,Max Mustermann,2021,Oct
+218,2021-10-25,"Referenz 6VSLN3IC1WQD8779MkE.7(Q2,_+_.4Einreicher-ID DEX-2390274-3318754 AMZN Mktp DE 6VSLN3IC1WQD8779",-12.31,10454.96,other_dl,dailylife,Max Mustermann,2021,Oct
+219,2021-10-21,Referenz ZAA0097671698M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,-2.55,10362.28,mobility,mobility,Max Mustermann,2021,Oct
+220,2021-10-20,Referenz ZAA0097585989M_-ID _-Stuttgarter Strassenbahnen AG. Vielen Dank fuer Ihre Fahrt.,-5.1,10610.83,mobility,mobility,Max Mustermann,2021,Oct
+221,2021-10-19,"_6270104524 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10615.93,music_dl,dailylife,Max Mustermann,2021,Oct
+222,2021-10-19,"_6276858597 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10619.92,music_dl,dailylife,Max Mustermann,2021,Oct
+223,2021-10-19,"_6270049116 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10623.91,music_dl,dailylife,Max Mustermann,2021,Oct
+224,2021-10-19,"_6276830003 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10627.9,music_dl,dailylife,Max Mustermann,2021,Oct
+225,2021-10-19,"_6308788028 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-1.32,10631.89,food_delivery_dl,dailylife,Max Mustermann,2021,Oct
+226,2021-10-19,"_6308779870 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-26.48,10633.21,food_delivery_dl,dailylife,Max Mustermann,2021,Oct
+227,2021-10-19,"_6318848546 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-0.99,10659.69,music_dl,dailylife,Max Mustermann,2021,Oct
+228,2021-10-19,"_6274591984 PAYPALLU96ZZZ.PP . Takeaway.com PaymentsB.V., Ihr Einkauf bei Takeaway.comPayments B.V.",-22.1,10660.68,food_delivery_dl,dailylife,Max Mustermann,2021,Oct
+229,2021-10-19,Referenz NOTPROVIDEDM SIMply Rechnung,-12.49,10682.78,smartphone_dl,dailylife,Max Mustermann,2021,Oct
+230,2021-10-19,"_6305711809 PAYPALLU96ZZZ.PP . iTunes and App Store,Ihr Einkauf bei iTunes and App Store",-3.99,10695.27,music_dl,dailylife,Max Mustermann,2021,Oct
+232,2021-10-18,"_6259013530 Paypal-ID _. REWE Markt GmbH, Ihr Einkauf beiREWE Markt GmbH",-123.07,10714.25,grocery,grocery,Max Mustermann,2021,Oct
+81,2021-12-28,ENTGELTUEBERWEISUNG 12.2021,3134.22,13435.18,revenue,revenue,mypegasus-Transfer-GmbH,2021,Dec
+85,2021-12-27,Referenz _VerwendungszweckMiete,483.44,10405.75,revenue,revenue,Meine Partnerin,2021,Dec
+162,2021-11-26,LOHN / GEHALT 11/21,548.46,12770.58,revenue,revenue,YAZAKI EUROPE LTD. ZWEIGNIEDERLASSUNG KOELN,2021,Nov
+163,2021-11-26,ENTGELTUEBERWEISUNG 11.2021,3185.56,12222.12,revenue,revenue,mypegasus-Transfer-GmbH,2021,Nov
+168,2021-11-25,Referenz _VerwendungszweckMiete,473.44,9058.54,revenue,revenue,Meine Partnerin,2021,Nov
+242,2021-10-28,ENTGELTUEBERWEISUNG 10.2021,3082.88,13287.92,revenue,revenue,mypegasus-Transfer-GmbH,2021,Oct
+248,2021-10-26,Referenz _VerwendungszweckMiete,473.44,10467.56,revenue,revenue,Meine Partnerin,2021,Oct
