@@ -1,34 +1,14 @@
 # Personal cash flow
 
-### 1 Prepare
-- import bank statements (read’s always latest statement csv-file)
-- exploration and converting
+This is a tool, which 
+- read’s always your latest bank statement 
+- filters your bank statements by usual and recurrent transactions
+- and substract savings-related transactions from your expenses by predefined cateogories,
+in order to rate your consumption related to your income.
 
-### 2 Categorization
-- build sub and major category
-- uncategorized transactions
-- save manager (build a today's copy and adds only new transactions to a history csv-file)
+In the next step it adds further banks balances, stock and etf values and monthly growth rates, to build your assets overview.
+Then it gives you a recommendation how to improve your annual returns based on your latest market shares.
 
-### 3 Analyse
-- regular transactions validation
-- iter-1 by categories (one-timer, outside-capital)
-- iter-2 at first glance (analyse visible outliers)
-- iter-2 by statistical ranges 
-- prepare monthly overviews
-- charts
-
-### 4 Evaluation
-- web scraping for reference
-- savings and rating
-
-### 5 Assets
-- grab stocks and etf information
-- add balances from other accounts
-- monthly growth rate of private pension plan, building savings
-- portfolio optimization
-
-### 6 Predictions
-- accuracy rate of prediction how good machine can categorize
-- run time series analysis on overall future expenses 
+Finally some predictions are made of how good the machine categorizes future transactions and there is also starting point to predict your future money stream, based on your past evolution. 
 
 [Here is a Link to the Dashboard]:(https://share.streamlit.io/riasnazary/personalcashflow/app.py)
