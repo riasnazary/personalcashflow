@@ -499,7 +499,7 @@ for i in list_stocks1:
     result = round(si.get_live_price(f'{i}'),2)
     consorsbank_portf.append(result)
 
-portfolio1 = pd.read_csv(main_path+'data/portfolio/portfolio1.csv', index_col=0)
+portfolio1 = pd.read_csv('data/portfolio/portfolio1.csv', index_col=0)
 portfolio1 = portfolio1.assign(acqsum = lambda x: x['pcs']*x['acq'])
 portfolio1['ticker'], portfolio1['price'] = list_stocks1, consorsbank_portf
 portfolio1 = portfolio1.assign(pricesum = lambda x: x['pcs']*x['price'], profit = lambda x: x['pricesum'] - x['acqsum'])
@@ -513,7 +513,7 @@ for i in list_stocks2:
     result = round(si.get_live_price(f'{i}'),2)
     traderepublic_portf.append(result)
 
-portfolio2 = pd.read_csv(main_path+'data/portfolio/portfolio2.csv', index_col=0)
+portfolio2 = pd.read_csv('data/portfolio/portfolio2.csv', index_col=0)
 portfolio2 = portfolio2.assign(acqsum = lambda x: x['pcs']*x['acq'])
 portfolio2['ticker'], portfolio2['price'] = list_stocks2, traderepublic_portf
 portfolio2 = portfolio2.assign(pricesum = lambda x: x['pcs']*x['price'], profit = lambda x: x['pricesum'] - x['acqsum'])
