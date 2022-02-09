@@ -21,7 +21,7 @@ st.set_page_config(page_title="Finance Dashboard",
                   )
 
 df = pd.read_csv(
-    'https://github.com/riasnazary/personalcashflow/blob/master/data/transactionsfiltered/transactions_filtered.csv',
+    'data/transactionsfiltered/transactions_filtered.csv',
     )#.iloc[:,1:]
 
 # ---- SIDEBAR ----
@@ -124,8 +124,8 @@ warnings.filterwarnings('ignore')
 pd.set_option('display.max_colwidth', None)
 
 # read the latest csv-file of bank statements
-main_path = r'https://github.com/riasnazary/personalcashflow/'
-folder_path = main_path + 'data/giro'
+# main_path = r'https://github.com/riasnazary/personalcashflow/'
+folder_path = 'data/giro/'
 file_type = '/*csv'
 files = glob.glob(folder_path + file_type)
 max_file = max(files, key=os.path.getctime)
