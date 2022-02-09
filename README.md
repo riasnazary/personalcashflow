@@ -30,3 +30,5 @@
 ### 6 Predictions
 - accuracy rate of prediction how good machine can categorize
 - run time series analysis on overall future expenses 
+
+[Here is a Link to the Dashboard]:(https://share.streamlit.io/riasnazary/personalcashflow/app.py)
