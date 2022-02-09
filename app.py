@@ -22,7 +22,7 @@ st.set_page_config(page_title="Finance Dashboard",
 
 df = pd.read_csv(
     'https://github.com/riasnazary/personalcashflow/blob/master/data/transactionsfiltered/transactions_filtered.csv',
-    ).iloc[:,1:]
+    )#.iloc[:,1:]
 
 # ---- SIDEBAR ----
 
